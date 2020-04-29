@@ -1,6 +1,6 @@
 
 //Version 0.1 alpha
-//Samuel Felipe Vargas y Mateo Felipe Torres
+//Samuel Felipe Vargas
 #include <Servo.h>
 
 Servo Garra;  
